@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "brand_name": "Apple",
+        "brand_logo": "https://media.designrush.com/inspiration_images/134802/conversions/_1511456315_653_apple-preview.jpg"
+    },
+    {
+        "id": "2",
+        "brand_name": "Samsung",
+        "brand_logo": "https://images.samsung.com/is/image/samsung/assets/us/about-us/brand/logo/mo/360_197_1.png?$FB_TYPE_B_PNG$"
+    },
+    {
+        "id": "3",
+        "brand_name": "Sony",
+        "brand_logo": "https://1000logos.net/wp-content/uploads/2017/06/Sony-Logo-1957.png"
+    },
+    {
+        "id": "4",
+        "brand_name": "Google",
+        "brand_logo": "https://1000logos.net/wp-content/uploads/2021/05/Google-logo.png"
+    },
+    {
+        "id": "5",
+        "brand_name": "Intel",
+        "brand_logo": "https://1000logos.net/wp-content/uploads/2017/02/Intel-Logo-2005.png"
+    },
+    {
+        "id": "6",
+        "brand_name": "Microsoft",
+        "brand_logo": "https://static.vecteezy.com/system/resources/previews/022/100/816/non_2x/microsoft-logo-transparent-free-png.png"
+    }
+]
